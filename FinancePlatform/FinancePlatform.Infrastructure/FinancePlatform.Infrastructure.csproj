@@ -15,4 +15,9 @@
       <PackageReference Include="Npgsql" Version="9.0.3" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Configurations\" />
+      <Folder Include="Database\PostgresDb\" />
+    </ItemGroup>
+
 </Project>
